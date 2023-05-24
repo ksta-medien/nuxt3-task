@@ -1,0 +1,7 @@
+.game-wrapper {
+    @apply bg-blue-100 flex items-center justify-center h-screen w-full;
+}
+
+.second-state {
+    @apply hidden;
+}
